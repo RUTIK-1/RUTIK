@@ -41,6 +41,12 @@
 
 ---
 
+# 📈 Contribution Graph
+
+[![Rutik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RUTIK-1&theme=tokyo-night)](https://github.com/RUTIK-1)
+
+---
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=RUTIK-1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
