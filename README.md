@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi 👋, I'm Rutik</h1>
 
 <h3 align="center">Full Stack Developer | MERN Stack | Learning DSA 🚀</h3>
