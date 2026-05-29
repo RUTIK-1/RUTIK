@@ -75,12 +75,6 @@
 
 ---
 
-# 👀 Visitor Count
-
-![](https://visitcount.itsvg.in/api?id=RUTIK-1&icon=5&color=12)
-
----
-
 ## 🐍 Contribution Snake
 
 ```text
