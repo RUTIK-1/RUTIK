@@ -77,8 +77,6 @@
 
 ## 🐍 Contribution Snake
 
-```text
-Setup later using GitHub Actions
 ````
 
 ---
