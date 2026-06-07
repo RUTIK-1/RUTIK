@@ -63,12 +63,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-[![Rutik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RUTIK-1&theme=tokyo-night)](https://github.com/RUTIK-1)
-
----
-
 # ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
