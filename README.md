@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rutik</h1>
 
-<h3 align="center">Full Stack Developer | MERN Stack | Learning DSA,NETWORKING  🚀</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Learning DSA | NETWORKING  🚀</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
